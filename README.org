@@ -1,0 +1,5 @@
+This repository contains a copy of [[https://codepen.io/chenchizkan/pen/wvwMrxy][this]] code snippet by chenchizkan. It serves as the foundation for [[https://github.com/vincentmader/responsive-navbar.rs][this]] re-implementation I created using the Rust frontend web framework `yew.rs`.
+
+ Features:
+- Collapse the NavBar for low page width values (e.g. on mobile devices).
+- Fade in the NavBar items one by one after each other.
